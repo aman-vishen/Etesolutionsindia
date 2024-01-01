@@ -2118,7 +2118,7 @@ input::placeholder {
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   color: #222;
-  font-size: 0.8125rem;
+  font-size: 1.2rem;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1499px) {
   .header-navigation__nav nav > ul > li > a {
